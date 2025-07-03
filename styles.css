@@ -1,0 +1,25 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.header {
+  background-color: #1A237E;
+  color: white;
+  padding: 30px 0;
+  text-align: center;
+  border-bottom: 5px solid #FFC107;
+}
+
+.rating {
+  color: #FFD700;
+  font-size: 1.2em;
+}
+
+.product-card:hover {
+  transform: scale(1.03);
+  transition: transform 0.3s ease-in-out;
+}
+
+.sell-form {
+  max-width: 700px;
+}
